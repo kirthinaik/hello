@@ -1,2 +1,2 @@
 # hello
-repo1
+this is a simple python code
